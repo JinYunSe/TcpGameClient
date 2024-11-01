@@ -6,11 +6,11 @@
 
 Esc 키를 누르면 유니티의 Canvas가 뜹니다.
 
-Canvas에는 continue 버튼과 Game End 버튼이 존재하는데
+Canvas에는 continue 버튼과 Game Exit 버튼이 존재하는데
 
 continue를 누르면 Esc 키를 한 번 더 누른 동작과 동일하고
 
-Game End를 누르면 게임 종료 및 서버와 통신이 끊깁니다.
+Game Exit를 누르면 게임 종료 및 서버와 통신이 끊깁니다.
 
 ### Canvas 구성
 
@@ -24,4 +24,7 @@ Game End를 누르면 게임 종료 및 서버와 통신이 끊깁니다.
 ![image](https://github.com/user-attachments/assets/93d2c4de-ff9c-4760-8188-dacfba5626be)
 ![image](https://github.com/user-attachments/assets/ea3d4af6-eefa-4b5f-a028-0bc727e5d9d4)
 
-### Game End 버튼 구성
+### Game Exit 버튼 구성
+
+![image](https://github.com/user-attachments/assets/36874e3f-1b46-4217-a0e8-33f95ea5bd8d)
+![image](https://github.com/user-attachments/assets/83048114-5c50-4508-a559-d7de2441eb03)
