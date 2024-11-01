@@ -22,3 +22,6 @@ Game End를 누르면 게임 종료 및 서버와 통신이 끊깁니다.
 
 ![image](https://github.com/user-attachments/assets/f3c0c9ce-0d61-4b9c-8ffc-e309c844e6a9)
 ![image](https://github.com/user-attachments/assets/93d2c4de-ff9c-4760-8188-dacfba5626be)
+![image](https://github.com/user-attachments/assets/ea3d4af6-eefa-4b5f-a028-0bc727e5d9d4)
+
+### Game End 버튼 구성
